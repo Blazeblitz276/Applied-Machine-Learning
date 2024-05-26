@@ -10,7 +10,7 @@ House-Price-Prediction/
 ├── data
 │ ├── Sydney_house_data.csv
 ├── House_Price_Prediction.ipynb
-├── README.md
+└── README.md
 
 
 ## Dataset
