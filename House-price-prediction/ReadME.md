@@ -5,13 +5,13 @@ This section focuses on predicting house prices in Sydney using regression model
 
 
 ### Directory Structure
-
+```
 House-Price-Prediction/
 ├── data
 │ ├── Sydney_house_data.csv
 ├── House_Price_Prediction.ipynb
-└── README.md
-
+└──  README.md
+```
 
 ## Dataset
 
