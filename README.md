@@ -7,6 +7,10 @@ Showcase of various Applied Machine Learning techniques
 2. [Brightness Temperature Analysis](Brightness-temperature-analysis/)
 3. [House Price Prediction](House-price-prediction/)
 4. [Credit Risk Classification](Credit-risk-classification/)
+5. [Breast Cancer Clustering](Breast-cancer-clustering/)
+6. [Fisher Linear Discriminant Analysis](Fisher-linear-discriminant-analysis/)
+7. [Bias-Variance Decomposition](Bias-variance-decomposition/)
+
 
 
 ## Getting Started
