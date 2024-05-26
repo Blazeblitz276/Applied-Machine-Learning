@@ -4,9 +4,9 @@ Showcase of various Applied Machine Learning techniques
 ## Topics
 
 1. [Fire Data Visualization](Fire-Data-Visualization/)
-2. [Brightness Temperature Analysis](#brightness-temperature-analysis)
-3. [House Price Prediction](#house-price-prediction)
-4. [Credit Risk Classification](#credit-risk-classification)
+2. [Brightness Temperature Analysis](Brightness-temperature-analysis/)
+3. [House Price Prediction](House-price-prediction/)
+4. [Credit Risk Classification](Credit-risk-classification/)
 
 
 ## Getting Started
