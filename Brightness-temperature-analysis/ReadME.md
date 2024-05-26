@@ -8,7 +8,7 @@ This section involves visualizing the distribution of brightness temperature I-4
 Brightness-Temperature-Analysis/ 
 (data already present in the repository in Applied-Machine-Learning\Fire-Data-Visualization\data\fire_nrt_V1_96617.csv)
 ├── Brightness_Temperature_Analysis.ipynb
-├── README.md
+└── README.md
 ```
 ## Dataset
 
