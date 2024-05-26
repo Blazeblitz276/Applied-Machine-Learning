@@ -34,7 +34,7 @@ The dataset used is the 'credit-g' dataset, which can be obtained using the comm
 
 1. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install <requirements>
 ```
 Run the Jupyter Notebook:
 ```bash

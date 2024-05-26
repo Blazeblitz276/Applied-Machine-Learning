@@ -10,6 +10,8 @@ Showcase of various Applied Machine Learning techniques
 5. [Breast Cancer Clustering](Breast-cancer-clustering/)
 6. [Fisher Linear Discriminant Analysis](Fisher-linear-discriminant-analysis/)
 7. [Bias-Variance Decomposition](Bias-variance-decomposition/)
+8. [Image Compression using PCA](Image-Compression-PCA/)
+9. [Name Classification using Naive Bayes](Name-classification-NB/)
 
 
 
@@ -35,7 +37,7 @@ cd Applied-Machine-Learning/<topic>
 ```
 3. Install the required packages:
 ```bash
-pip install  <requirements>
+pip install <requirements>
 ```
 4. Run the Jupyter Notebook:
 ```bash

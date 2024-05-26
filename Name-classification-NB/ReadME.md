@@ -1,7 +1,7 @@
 
 # Fisher Linear Discriminant Analysis
 
-This section involves implementing the Fisher Linear Discriminant (FLD) for dimensionality reduction and classification.
+This assignment involves implementing the Fisher Linear Discriminant (FLD) for dimensionality reduction and classification.
 
 ## Directory Structure
 

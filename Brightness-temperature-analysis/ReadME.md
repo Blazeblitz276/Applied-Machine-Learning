@@ -30,7 +30,7 @@ The dataset used is `fire_nrt_V1_96617.csv` which can be obtained from [NASA's V
 
 1. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install <requirements>
 ```
 Run the Jupyter Notebook:
 ```bash

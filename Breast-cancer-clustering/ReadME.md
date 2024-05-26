@@ -32,7 +32,7 @@ The dataset used is the Wisconsin Diagnostic Breast Cancer dataset, which can be
 
 1. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip install <requirements>
 ```
 Run the Jupyter Notebook:
 ```bash
