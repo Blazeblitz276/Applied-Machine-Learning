@@ -3,11 +3,11 @@
 This section focuses on decomposing the error into bias, variance, and noise using a synthetic dataset.
 
 ## Directory Structure
-
+```
 Bias-Variance-Decomposition/
 ├── Bias_Variance_Decomposition.ipynb
 └── README.md
-
+```
 
 ## Tasks
 
