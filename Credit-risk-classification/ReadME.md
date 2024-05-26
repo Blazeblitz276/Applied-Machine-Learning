@@ -10,7 +10,7 @@ Credit-Risk-Classification/
 ├── data
 │ ├── dataset_31_credit-g.arff
 ├── Credit_Risk_Classification.ipynb
-├── README.md
+└──  README.md
 ```
 ## Dataset
 
