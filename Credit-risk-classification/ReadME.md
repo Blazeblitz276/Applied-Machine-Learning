@@ -5,14 +5,13 @@ This section focuses on classifying credit risk using various classification mod
 
 
 ### Directory Structure
-
+```
 Credit-Risk-Classification/
 ├── data
 │ ├── dataset_31_credit-g.arff
 ├── Credit_Risk_Classification.ipynb
 ├── README.md
-└── requirements.txt
-
+```
 ## Dataset
 
 The dataset used is the 'credit-g' dataset, which can be obtained using the command `fetch_openml('credit-g')` from [OpenML](https://www.openml.org/d/31).
