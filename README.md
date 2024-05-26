@@ -22,19 +22,18 @@ To get started with any of the assignments, navigate to the respective directory
 ## How to Run
 
 1. Clone the repository:
-  ```bash
-   git clone https://github.com/yourusername/Applied-Machine-Learning.git
-   ```
+```bash
+git clone https://github.com/yourusername/Applied-Machine-Learning.git
+```
 2. Navigate to the assignment directory:
-
-  ```bash
-  cd Applied-Machine-Learning/assignment_name
-  ```
+```bash
+cd Applied-Machine-Learning/<topic>
+```
 3. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install  <requirements>
+```
 4. Run the Jupyter Notebook:
-  ```bash
-  jupyter notebook <DesiredNotebookname.ipynb>
-  ```
+```bash
+jupyter notebook <DesiredNotebookname.ipynb>
+```
