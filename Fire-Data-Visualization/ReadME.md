@@ -5,13 +5,13 @@ This section focuses on visualizing fire data from Australia and New Zealand usi
 
 
 ### Directory Structure
-
+```
 Fire-Data-Visualization/
 ├── data
 │ ├── fire_nrt_V1_96617.csv
 ├── Fire_Data_Visualization.ipynb
 ├── README.md
-
+```
 
 
 ## Dataset
