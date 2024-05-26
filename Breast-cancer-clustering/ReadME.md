@@ -7,8 +7,7 @@ This section focuses on using K-Means clustering to diagnose breast cancer based
 ```
 Breast-Cancer-Clustering/
 ├── Breast_Cancer_Clustering.ipynb
-├── README.md
-└── requirements.txt
+└──  README.md
 ```
 ## Dataset
 
